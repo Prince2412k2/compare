@@ -1,10 +1,18 @@
-# Disposable Camera Showdown
+# Disposable Camera Showdown — Kodak vs Fuji vs Agfa
 
-A comparison website for Kodak FunSaver vs Fuji QuickSnap vs Agfa Le Box 400 disposable film cameras.
+A comparison website for three popular disposable film cameras: Kodak FunSaver, Fuji QuickSnap, and Agfa Le Box 400.
 
-## Overview
+## The Cameras
 
-This project showcases the different color characteristics and rendering styles of three popular disposable film cameras. The site features real photographs with detailed comparisons across different shooting scenarios.
+| Camera | Film Stock | ISO | Character |
+|--------|----------|-----|----------|
+| Kodak FunSaver | Kodak Gold 800 | 800 | Warm, saturated, punchy |
+| Fuji QuickSnap | Fujicolor 400 | 400 | Cool, neutral, clean |
+| Agfa Le Box 400 | Agfa 400 | 400 | Muted, washed, filmic |
+
+## Live Site
+
+Visit at: https://Prince2412k2.github.io/compare
 
 ## Deploying to GitHub Pages
 
@@ -12,11 +20,9 @@ This project showcases the different color characteristics and rendering styles 
 2. Navigate to **Settings** → **Pages**
 3. Under **Build and deployment**, select:
    - **Source**: Deploy from a branch
-   - **Branch**: `main` (or your default branch)
+   - **Branch**: `main`
    - **Folder**: `/ (root)`
 4. Click **Save**
-
-Your site will be available at `https://yourusername.github.io/repository-name`
 
 ## Credits
 
